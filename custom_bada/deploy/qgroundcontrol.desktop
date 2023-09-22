@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=BadaGroundControl
+GenericName=Ground Control Station
+Comment=UAS ground control station
+Icon=BadaAppIcon
+Exec=qgroundcontrol-start.sh
+Terminal=false
+Categories=Utility;
