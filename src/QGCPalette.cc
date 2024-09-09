@@ -85,7 +85,7 @@ void QGCPalette::_buildMap()
 
     // Colors not affecting by theming
     //                                              Disabled    Enabled
-    DECLARE_QGC_NONTHEMED_COLOR(brandingPurple,     "#4A2C6D", "#4A2C6D")
+    DECLARE_QGC_NONTHEMED_COLOR(brandingPurple,     "#2373EAD6", "#1278E5")
     DECLARE_QGC_NONTHEMED_COLOR(brandingBlue,       "#48D6FF", "#6045c5")
     DECLARE_QGC_NONTHEMED_COLOR(toolStripFGColor,   "#707070", "#ffffff")
 
